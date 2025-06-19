@@ -1,0 +1,9 @@
+[project]
+name = "nytaxi-mlops-monitoring"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.1"
+dependencies = [
+    "pip>=25.1.1",
+]
